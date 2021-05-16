@@ -3,3 +3,6 @@
 - El tema de generar un atuendo y ver toda la ropa es de la iteración 3? Asumo que que tengo el listado de toda la ropa disponible y que se saben generar los atuendos porque en estos requerimientos no dice nada y ya habla de un generador.
 
 - Relación ServicioAccu y AccuWeather: la conoce (línea llena)? o la usa (línea punteada)?
+
+-Tema costos: de alguna forma necesito minimizar los accesos. Guardo las consultas hechas? Algo que diariamente se vacíe entonces consulto una vez al día la ciudad y ya la reutilizo.
+
