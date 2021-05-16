@@ -1,0 +1,5 @@
+- Debería haber relación entre clima y generadorDeAtuendos? O la relación es indirecta por CondiciónClimática
+
+- El tema de generar un atuendo y ver toda la ropa es de la iteración 3? Asumo que que tengo el listado de toda la ropa disponible y que se saben generar los atuendos porque en estos requerimientos no dice nada y ya habla de un generador.
+
+- Relación ServicioAccu y AccuWeather: la conoce (línea llena)? o la usa (línea punteada)?
