@@ -5,5 +5,3 @@ Decido que es útil aunque no tenga comportamiento
 
 - ServicioDeCondicionesClimáticas: empezó siendo una clase con un atributo que referenciaba al servicio actual. Pero de alguna forma necesitaba un tipo de dato que luego permitiera cambiar a otro que no sea Accu.
 Entonces había que pensar en alguna clase de la cual heredar todos los servicios. Con esa idea, esa clase ServicioActual por ejemplo, me quedaba súper similar al ServicioDeCondicionesClimáticas (eran casi lo mismo). Entonces unifico las dos ideas y pienso en el servicio como una interfaz que se implementa con el servicio puntual que usa la api de Accu.
-
--Tema costos: de alguna forma necesito minimizar los accesos. Guardo las consultas hechas? Algo que diariamente se vacíe entonces consulto una vez al día la ciudad y ya la reutilizo.
