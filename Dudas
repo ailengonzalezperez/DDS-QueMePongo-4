@@ -5,4 +5,5 @@
 - Relación ServicioAccu y AccuWeather: la conoce (línea llena)? o la usa (línea punteada)?
 
 -Tema costos: de alguna forma necesito minimizar los accesos. Guardo las consultas hechas? Algo que diariamente se vacíe entonces consulto una vez al día la ciudad y ya la reutilizo.
+También la calidad de la aplicación y los costos podrían estar asociados al testing, pero eso sería inicialmente y no en el uso diario.
 
